@@ -1,0 +1,25 @@
+@charset "utf-8";
+.houkoku {
+    font-size: 250%;
+    margin-top: 60px;
+    display: block;
+    font-family: serif;
+}
+.goi {
+    font-size: 300%;
+    color: red;
+}
+.inoti {
+    font-size: 250%;
+    font-family: serif;
+}
+.inotigoi {
+    font-family: serif;
+    font-size: 250%;
+    text-decoration: none;
+    color: black;
+}
+.goi {
+    color: red;
+    text-decoration: none;
+}
