@@ -1,0 +1,10 @@
+@charset "utf-8";
+.ahya {
+    font-size: 300%;
+    text-decoration: none;
+    color: black;
+    font-family: serif;
+}
+body {
+    font-family: serif;
+}

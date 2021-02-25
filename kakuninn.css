@@ -1,0 +1,16 @@
+@charset "utf-8";
+.honnbunn {
+    font-size: 500%;
+    font-family: serif;
+    color: black;
+}
+.zokkou {
+    color: red;
+    text-decoration: none;
+    font-size: 300%;
+}
+.no {
+    color: black;
+    text-decoration: none;
+    font-size: 300%;
+}
