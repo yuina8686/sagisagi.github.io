@@ -23,3 +23,12 @@
     color: red;
     text-decoration: none;
 }
+.command {
+    font-family: serif;
+    font-size: 1%;
+    display: block;
+    margin-top: 360px;
+    margin-left: 1150px;
+    text-decoration: none;
+    color: black;
+}

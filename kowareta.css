@@ -1,4 +1,18 @@
 @charset "utf-8";
 body {
-    background-color: red;
+    background-image: url(BSoD_in_Windows_1.0.png);
+}
+.message {
+    color: red;
+    font-size: 660%;
+    font-family: serif;
+    background-color: rgba(0, 0, 255, 0.644);
+    width: 740px;
+}
+.messager {
+    color: red;
+    font-size: 660%;
+    font-family: serif;
+    background-color: rgba(0, 0, 255, 0.644);
+    width: 1500px;
 }
